@@ -3,7 +3,6 @@
 
 **Feedback Memory OS** is an AI-powered customer feedback intelligence platform that continuously ingests feedback from multiple sources, remembers it using **Hindsight** (by Vectorize), discovers evolving customer themes, connects feedback to product decisions, and learns from what happens afterward.
 
-Built for the **AI Hackathon powered by Hindsight (Vectorize)**.
 
 ---
 
