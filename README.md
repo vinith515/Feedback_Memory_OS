@@ -115,7 +115,7 @@ flowchart TD
 
 ---
 
-## 7. The 90-Second Winning Demo Flow
+## 7. The Workflow
 1. **0–15s:** Open Dashboard; state the core thesis: *"Companies don't suffer from too much feedback. They suffer from forgetting context."*
 2. **15–35s:** Click **"What Changed?"** &rarr; Observe the 7-step chronological memory evolution of the Onboarding friction.
 3. **35–55s:** Click **Decision Memory** &rarr; Select `Launch Guided Onboarding V1` &rarr; See before (35 complaints) and after (69 complaints) metrics showing SMB resolution alongside enterprise API divergence.
